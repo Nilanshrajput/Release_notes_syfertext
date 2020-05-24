@@ -73,7 +73,7 @@
 
   - > added black checking to pytest in CI ( [<span class="underline">commit</span>](https://github.com/OpenMined/SyferText/commit/a9b6f04e1ef1cf83472feaf6f9622ed35d966435) by @AlanAboudib )
 
-**Classes and Files**:
+**Classes and Files[WIP]**:
 
   - > \`Language\`: Inspired by spaCy Language class. It Orchestrates the interactions between different components of the pipeline to accomplish core text-processing task. It creates the Doc object which is the container into which all text-processing pipeline components feed their results.
 
